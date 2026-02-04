@@ -18,6 +18,10 @@ Forward:
 - Multiple light support (single pass and multi pass)
 - Dynamic shadowmap atlas for all spotlights and directional light sorces
 
+![screenshot](https://github.com/ionn232/GTR/raw/master/screenshots/1.png)
+![screenshot](https://github.com/ionn232/GTR/raw/master/screenshots/2.png)
+![screenshot](https://github.com/ionn232/GTR/raw/master/screenshots/3.png)
+
 # Framework
 OpenGL C++ Framework used for teach the Real-time Grapchics course at Universitat Pompeu Fabra.
 
